@@ -1,0 +1,29 @@
+---
+cran_url: https://mran.microsoft.com/snapshot/2017-10-12
+local_path: ~/miniCRAN
+packages:
+  - rpart
+  - stats
+  - ggplot2
+  - plyr
+  - reshape2
+views:
+  - Bayesian
+  - Cluster
+  - Distributions
+  - ExperimentalDesign
+  - ExtremeValue
+  - Graphics
+  - MachineLearning
+  - HighPerformanceComputing
+  - Multivariate
+  - MetaAnalysis
+  - NumericalMathematics
+  - OfficialStatistics
+  - Optimization
+  - Robust
+  - Spatial
+  - Survival
+  - TimeSeries
+  -	WebTechnologies
+  - gR
